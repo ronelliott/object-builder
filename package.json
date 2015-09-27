@@ -1,17 +1,10 @@
 {
   "name": "object-builder",
   "version": "0.0.1",
-  "description": "Object builder",
+  "description": "Build objects from other objects.",
   "author": "Ron Elliott <ron@elliott.im>",
   "license": "ISC",
   "main": "object-builder",
-  "keywords": [
-    "webapp",
-    "framework",
-    "handler",
-    "crud",
-    "postgres"
-  ],
   "scripts": {
     "coverage:upload": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "test": "mocha",
