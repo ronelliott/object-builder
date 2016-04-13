@@ -1,7 +1,7 @@
 'use strict';
 
-var is = require('is'),
-    objectPath = require('object-path');
+const is = require('is'),
+      objectPath = require('object-path');
 
 module.exports = function(fields) {
     var args = arguments;
