@@ -1,6 +1,6 @@
 {
   "name": "object-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build objects from other objects.",
   "author": "Ron Elliott <ron@elliott.im>",
   "license": "ISC",
